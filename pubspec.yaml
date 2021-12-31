@@ -1,0 +1,25 @@
+name: flutter_user_list_calendar
+description: A Flutter Project that demonstrates a demo for listing users on a calendar and searching among them.
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  http: 0.13.4
+  intl: 0.17.0
+  table_calendar: 3.0.3
+  flutter_bloc: 8.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
