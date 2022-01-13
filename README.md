@@ -1,6 +1,8 @@
 # Flutter User Calendar
 A flutter app that displays registered users on a calendar/list and allows to search for users using the full name. 
 
+<img src="app_demo.gif" alt="drawing" height="400px"/>
+
 ## Build&Run
 
 Get the dependencies using:

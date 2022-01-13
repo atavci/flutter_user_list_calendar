@@ -7,7 +7,6 @@ import 'package:flutter_user_list_calendar/util/utils.dart';
 import 'package:http/http.dart' as http;
 import 'package:http/testing.dart';
 
-/// Integration test
 void main() {
   final List<Map> mockUsers = [
     UserInfo(1, 79, "Jeffersonville, Indiana, United States", "Eagell", "Ivar",
